@@ -18,6 +18,7 @@ export default defineConfig({
       lastUpdated: false,
       pagination: true,
       sidebar: [
+        { label: '韭菜的自我修養:寫在前面', slug: 'unit00' },
         {
           label: '認識韭菜',
           items: [
@@ -60,6 +61,7 @@ export default defineConfig({
             { label: '認識、識別與把握週期', slug: 'unit12' },
           ],
         },
+        { label: '你,從來都不是韭菜', slug: 'unit13' },
       ],
     }),
     react(),

@@ -1,4 +1,5 @@
-/* 自動生成:側欄小號編號(redesign-path-sidebar.py) */
+/* 自動生成:側欄小號編號(repair-emoji.py) */
+#starlight__sidebar a[href$="/unit00/"]::before { content: "前. "; }
 #starlight__sidebar a[href$="/unit01/"]::before { content: "1. "; }
 #starlight__sidebar a[href$="/unit02/"]::before { content: "2. "; }
 #starlight__sidebar a[href$="/unit03/"]::before { content: "3. "; }
@@ -11,3 +12,4 @@
 #starlight__sidebar a[href$="/unit10/"]::before { content: "10. "; }
 #starlight__sidebar a[href$="/unit11/"]::before { content: "11. "; }
 #starlight__sidebar a[href$="/unit12/"]::before { content: "12. "; }
+#starlight__sidebar a[href$="/unit13/"]::before { content: "結. "; }
