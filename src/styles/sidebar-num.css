@@ -1,0 +1,13 @@
+/* 自動生成:側欄小號編號(redesign-path-sidebar.py) */
+#starlight__sidebar a[href$="/unit01/"]::before { content: "1. "; }
+#starlight__sidebar a[href$="/unit02/"]::before { content: "2. "; }
+#starlight__sidebar a[href$="/unit03/"]::before { content: "3. "; }
+#starlight__sidebar a[href$="/unit04/"]::before { content: "4. "; }
+#starlight__sidebar a[href$="/unit05/"]::before { content: "5. "; }
+#starlight__sidebar a[href$="/unit06/"]::before { content: "6. "; }
+#starlight__sidebar a[href$="/unit07/"]::before { content: "7. "; }
+#starlight__sidebar a[href$="/unit08/"]::before { content: "8. "; }
+#starlight__sidebar a[href$="/unit09/"]::before { content: "9. "; }
+#starlight__sidebar a[href$="/unit10/"]::before { content: "10. "; }
+#starlight__sidebar a[href$="/unit11/"]::before { content: "11. "; }
+#starlight__sidebar a[href$="/unit12/"]::before { content: "12. "; }
